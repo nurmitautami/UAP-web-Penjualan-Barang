@@ -16,6 +16,4 @@ Link Hosting : uap-prakweb-penjualan.epizy.com
 - Password   : admin
 
 
-Pembagian Tugas :
-
-Project ini kami buat bersama secara offline
+Pembagian Tugas : Project ini kami buat bersama secara offline
