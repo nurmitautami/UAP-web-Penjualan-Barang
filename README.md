@@ -1,5 +1,5 @@
 # UAP-web-Penjualan-Barang
-UAP Pemrograman Web Penjualan Barang  Nama anggota kelompok :   
+UAP Pemrograman Web Penjualan Barang 
 TUBES1
 ====================================
 KELOMPOK Kelas C
